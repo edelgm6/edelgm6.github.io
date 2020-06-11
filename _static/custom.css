@@ -1,1 +1,4 @@
-/* This file intentionally left blank. */
+div.body {
+    min-width: 0px;
+    max-width: 800px;
+}
